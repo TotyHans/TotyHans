@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TotyHans
-- 👀 I’m interested in ... Software programming in JAva and C# 
-- 🌱 I’m currently learning ... Java with Spring :D 
-- 💞️ I’m looking to collaborate on ... IBM to get closer to my dream
+- 👋 Hi, I’m Hans
+- 👀 I’m interested in ... Software programming in Java, C# and Python 
+- 🌱 I’m currently learning ... Java with Node.js
+- 💞️ I’m looking to collaborate on ... any company leading software to get closer to my dream
 - 📫 How to reach me ... im always available via e-mail in hans.business@outlook.com if u need something just write me :D 
 
 <!---
